@@ -1,4 +1,4 @@
-./misc.xml
-./vcs.xml
-./workspace.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/workspace.xml
 /local/
